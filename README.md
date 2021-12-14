@@ -3,7 +3,7 @@
 ### Name: Jimmy
 ### Email: Jimmyo6270@hstat.org
 ### Bio:
-I love computers and stuff
+I love computers and stuff. I am currently in SEP10 learning all about coding and how to use computer utilities.
 ### Schedule:
 <ls>
     <ul>pd1: English</ul>
